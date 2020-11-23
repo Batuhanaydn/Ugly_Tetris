@@ -1,4 +1,4 @@
-pip install Pygame
+python3 -m pip install -U pygame --user
 
 A very difficult and very ugly tetris game. Prepare yourself, you will cry
 
